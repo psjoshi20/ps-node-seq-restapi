@@ -2,7 +2,7 @@ https://medium.com/crowdbotics/how-to-build-a-rest-api-with-nodejs-and-postgresq
 
 my version of the project is on github https://github.com/psjoshi20/ps-node-seq-restapi
 
-~/mynode/ps-node-seq-restapi
+my raspberry ~/mynode/ps-node-seq-restapi
 setup the [project]
 mkdir <projectname> ,cd <project name>, npm init --y, npm install express
 or 
