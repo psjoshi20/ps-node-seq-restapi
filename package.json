@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "REST API using Node.js as the back-end server with help from ExpressJS framework, and connect it with PostgreSQL database.",
   "scripts": {
-    "start": "nodemon server.js",
+    "start": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
