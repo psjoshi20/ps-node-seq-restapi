@@ -1,3 +1,5 @@
+the tutorial references are from 
+
 https://medium.com/crowdbotics/how-to-build-a-rest-api-with-nodejs-and-postgresql-828c7ec1e8b1
 
 my version of the project is on github https://github.com/psjoshi20/ps-node-seq-restapi
