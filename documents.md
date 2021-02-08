@@ -1,4 +1,6 @@
 The project -
+Create a REST API using Node.js as the back-end server with help from ExpressJS framework and Sequelize, and connect it with a PostgreSQL database.
+App - TODOlist 
 
 Github Repository -
 github https://github.com/psjoshi20/ps-node-seq-restapi
