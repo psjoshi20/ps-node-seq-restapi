@@ -1,7 +1,5 @@
 # ps-node-seq-restapi
-working code for postgres-sequelize-express-nodejs-RESTAPI (finally on way to achieve)
-   on my rsapberrypi mynode/ps-node-seq-restapi
-need to show coach for his approval
- postman test is not done. postman app crashed on raspberry pi
- 
- before start ckh for database in postgres . if not htere pls create and connect to server via sequelize
+A working Project-
+postgres-sequelize-express-nodejs-RESTAPI 
+Github - https://github.com/psjoshi20/ps-node-seq-restapi
+raspberrypi-  mynode/ps-node-seq-restapi
